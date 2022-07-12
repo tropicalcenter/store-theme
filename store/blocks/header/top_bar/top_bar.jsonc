@@ -1,0 +1,16 @@
+{
+    "flex-layout.row#top-bar": {
+        "props":{
+            "blockClass": "wrapper__top-bar"
+        },
+        "children": [
+            "rich-text#top-bar"
+        ]
+    },
+    "rich-text#top-bar": {
+        "props": {
+            "blockClass": "text__top-bar",
+            "text": "CUPOM DE R$20,00 PARA A PRIMEIRA COMPRA NO SITE"
+        }
+    }
+}
